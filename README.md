@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mahammadnihal12@gmail.com**
 
+- ⚡ Fun fact **im batman**
+
 
 
 <h3 align="left">Connect with me:</h3>
