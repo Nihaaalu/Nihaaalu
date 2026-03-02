@@ -1,68 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nihal</h1>
-<h3 align="center">Aspiring Cybersecurity Professional | B.Tech CSE Student</h3>
+<h1 align="center">👨‍💻 Nihal</h1>
+<h3 align="center">🔐 Aspiring Cybersecurity Specialist | B.Tech CSE</h3>
 
-- 🔐 Currently exploring **Cybersecurity fundamentals**
-- 🌱 Learning about **Network Security, Ethical Hacking, and System Security**
-- 👨‍💻 All of my projects are available at  
-  https://github.com/Nihaaalu
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Learner;Future+Ethical+Hacker;Linux+Enthusiast;Security+Research+Beginner">
+</p>
 
-- 📫 How to reach me  
-  **mahammadnihal12@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🧑‍💻 About Me
+
+- 🎓 B.Tech Computer Science Student  
+- 🔐 Interested in **Cybersecurity & Ethical Hacking**  
+- 🌱 Currently learning **Linux, Networking, and Security Fundamentals**  
+- 🧠 Exploring **Web Security, System Security, and Cyber Defense**  
+- 👨‍💻 Projects available at:  
+  **https://github.com/Nihaaalu**
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mahammad-nihal-5994203b3/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/mahammad-nihal-5994203b3/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40">
 </a>
 
-<a href="https://twitter.com/_ni_hellll" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<a href="https://twitter.com/_ni_hellll">
+<img src="https://skillicons.dev/icons?i=twitter" height="40">
 </a>
 
-<a href="https://instagram.com/niihal.png" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerearth.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
+<a href="https://instagram.com/niihal.png">
+<img src="https://skillicons.dev/icons?i=instagram" height="40">
 </a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+# ⚡ Cybersecurity Toolkit (Learning)
+
 <p align="left">
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.kali.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=bash" />
 
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihaaalu&show_icons=true&locale=en&layout=compact" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Networking-Security-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ethical-Hacking-green?style=for-the-badge">
+
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihaaalu&" />
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nihaaalu&show_icons=true&theme=chartreuse-dark">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihaaalu&theme=chartreuse-dark">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihaaalu&layout=compact&theme=chartreuse-dark">
+
+</p>
+
+---
+
+# 🧠 Cybersecurity Learning Goals
+
+✔ Linux & System Administration  
+✔ Networking Fundamentals  
+✔ Web Security  
+✔ Penetration Testing Basics  
+✔ Capture The Flag (CTF)
+
+---
+
+<p align="center">
+⚠️ "Security is not a product, but a process."
 </p>
