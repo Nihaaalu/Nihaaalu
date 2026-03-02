@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahammad Nihal T U</h1>
-<h3 align="center">A passionate engineering student from India</h3>
+<h1 align="center">Hi 👋, I'm  Nihal </h1>
 
-- 🔭 I’m currently working on **EDIT NINJA**
 
-- 🌱 I’m currently learning **python, java script**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nihaaalu](https://github.com/Nihaaalu)
 
 - 📫 How to reach me **mahammadnihal12@gmail.com**
 
-- ⚡ Fun fact **im batman**
 
 
 
