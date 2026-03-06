@@ -35,10 +35,10 @@
 </a>
 
 <a href="https://twitter.com/_ni_hellll">
-<img src="https://skillicons.dev/icons?i=twitter" height="40">
+<img src="https://skillicons.dev/icons?i=x" height="40">
 </a>
 
-<a href="https://instagram.com/niihal.png">
+<a href="https://instagram.com/f1.nihal">
 <img src="https://skillicons.dev/icons?i=instagram" height="40">
 </a>
 
