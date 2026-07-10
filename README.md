@@ -9,32 +9,41 @@
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=2200&color=00FF41&center=true&vCenter=true&width=900&lines=root%40nihal%3A~%24+whoami;Cybersecurity+Student;Ethical+Hacking+%7C+Security+Research;Linux+%7C+Networking+%7C+Python;Building+Secure+Systems;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=root%40nihal%3A~%24+whoami;Cybersecurity+Student;Ethical+Hacking+%7C+Security+Research;Linux+%7C+Networking+%7C+Python;Building+Security+Projects;Always+Learning"/>
 
-<img src="https://komarev.com/ghpvc/?username=Nihaaalu&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Nihaaalu&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💻 whoami
+# 💻 Terminal
 
 ```bash
-> whoami
+root@nihal:~$ whoami
 
 Name        : Mahammad Nihal
 Role        : B.Tech Computer Science Student
-Focus       : Cybersecurity
-Interests   : Penetration Testing • Web Security • OSINT
-OS          : Linux
-Languages   : Python • Bash • Java
-Status      : Building projects & learning every day
 Location    : India
+
+Focus       : Cybersecurity
+Interests   : Ethical Hacking
+              Penetration Testing
+              Web Security
+              OSINT
+
+Languages   : Python • Bash • Java
+
+OS          : Linux
+
+Status      : Building security-focused projects
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
 <p align="center">
 
@@ -58,28 +67,28 @@ Location    : India
 
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/John_The_Ripper-990000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🎯 Current Mission
+# 🎯 Current Learning
 
 ```text
 [███████████████████░] Linux
 
 [████████████████░░░] Networking
 
-[██████████████░░░░░] Web Security
+[███████████████░░░░] Web Security
 
-[███████████░░░░░░░░] Penetration Testing
+[████████████░░░░░░░] Penetration Testing
 
-[█████████░░░░░░░░░░] Active Directory
+[██████████░░░░░░░░░] Active Directory
 
 [████████░░░░░░░░░░░] Malware Analysis
 ```
@@ -90,20 +99,20 @@ Location    : India
 
 ```text
 📁 FocusSense
- ├─ AI Productivity Detection
- └─ Computer Vision + Machine Learning
+ ├── AI Productivity Detection
+ └── Computer Vision + Machine Learning
 
 📁 Digital Footprint Investigator
- ├─ OSINT Toolkit
- └─ Digital Footprint Analysis
+ ├── OSINT Toolkit
+ └── Digital Footprint Analysis
 
 📁 Dreamy Vacations
- ├─ Offline Hotel Management
- └─ SQLite + React + Tauri
+ ├── Offline Booking Platform
+ └── SQLite + React + Tauri
 
 📁 MaternAI
- ├─ AI Healthcare Assistant
- └─ Gemini + Firebase
+ ├── AI Healthcare Assistant
+ └── Gemini + Firebase
 ```
 
 ---
@@ -136,40 +145,30 @@ Location    : India
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nihaaalu&theme=matrix&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🌐 Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mahammad-nihal-5994203b3">
-<img src="https://skillicons.dev/icons?i=linkedin" height="46"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/_ni_hellll">
-<img src="https://cdn.simpleicons.org/x/white" height="42"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="44"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/f1.nihal">
-<img src="https://skillicons.dev/icons?i=instagram" height="46"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mahammadnihal12@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="46"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 </p>
@@ -179,9 +178,9 @@ Location    : India
 <div align="center">
 
 ```text
-> root@nihal:~$ echo "Security is a continuous process."
+root@nihal:~$ echo "Security is a process."
 
-Security is not about being impossible to break.
+Security isn't about making systems impossible to break.
 It's about making attacks difficult, detectable,
 and recoverable.
 ```
