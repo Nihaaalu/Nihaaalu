@@ -1,120 +1,53 @@
-<div align="center">
+🖥️ Terminal Introduction
 
-```text
-███╗   ██╗██╗██╗  ██╗ █████╗ ██╗
-████╗  ██║██║██║  ██║██╔══██╗██║
-██╔██╗ ██║██║███████║███████║██║
-██║╚██╗██║██║██╔══██║██╔══██║██║
-██║ ╚████║██║██║  ██║██║  ██║███████╗
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=root%40nihal%3A~%24+whoami;Cybersecurity+Student;Security+Research;Python+%7C+Linux+%7C+Networking;OSINT+%7C+Web+Security;Building+Security+Projects"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Nihaaalu&label=PROFILE+VIEWS&style=for-the-badge&color=00ff41"/>
-
-</div>
-
----
-
-## TERMINAL
-
-```bash
 root@nihal:~$ whoami
+Mahammad Nihal
 
-Name        : Mahammad Nihal
-Role        : B.Tech Computer Science Student
-Location    : India
+root@nihal:~$ cat about_me.txt
+> Cybersecurity Student based in India.
+> Specialized in identifying vulnerabilities and securing digital assets.
+> Passionate about offensive security, automation, and system architecture.
 
-Focus       : Offensive Security
-Research    : Web Security
-              OSINT
-              Linux
-              Networking
+root@nihal:~$ ./current_focus.sh
+[*] Learning Path: Advanced Web Exploitation & Red Teaming
+[*] Current Research: OSINT Frameworks & Network Traffic Analysis
+[*] Status: Active
 
-Languages   : Python • Bash • Java
+🛡️ Security Domains
 
-Stack       : Flask • React • Firebase
+[01] Web Security          [####################] 90%
+[02] OSINT                 [##################--] 85%
+[03] Networking            [#################---] 80%
+[04] Linux Administration  [####################] 95%
+[05] Python Scripting      [##################--] 85%
+[06] Offensive Security    [#################---] 80%
 
-Status      : Building security-focused projects
-```
+🛠️ Tech Stack
 
----
+🧰 Security Tools
 
-## TOOLCHAIN
+📁 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,react,firebase,flask,vscode"/>
-</p>
+| Project                            | Description                                            | Tech Stack         | Status   |
+| :--------------------------------- | :----------------------------------------------------- | :----------------- | :------- |
+| **Digital Footprint Investigator** | Automated OSINT tool for intelligence gathering.       | `Python` `APIs`    | `Stable` |
+| **FocusSense**                     | Productivity monitoring and analysis dashboard.        | `React` `Firebase` | `Live`   |
+| **Phone Directory Manager**        | Secure, encrypted contact management system.           | `Java` `SQL`       | `Stable` |
+| **To-Do Manager**                  | Minimalist task management for security workflows.     | `Flask` `Python`   | `v1.0`   |
+| **Study Planner**                  | Algorithm-based schedule optimizer for students.       | `React` `Flask`    | `Beta`   |
+| **Dreamy Vacations**               | Full-stack travel platform with secure authentication. | `React` `Firebase` | `Stable` |
 
----
+📊 System Statistics
 
-## SECURITY_TOOLS
+📡 Encrypted Communication
 
-<p align="center">
-<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/John_The_Ripper-990000?style=for-the-badge"/>
-</p>
+root@nihal:~$ history
+1  nmap -sV -sC -Pn target.com
+2  python3 osint_scanner.py --target domain.tld
+3  burpsuite &
+4  grep "vulnerability" report.txt
+5  git add . && git commit -m "Security patches applied"
+6  git push origin main
+7  logout
 
----
-
-## GITHUB_ANALYTICS
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nihaaalu&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihaaalu&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nihaaalu&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-## CONTRIBUTION_GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nihaaalu&theme=github-dark&bg_color=000000&hide_border=true&color=00FF41&line=00FF41&point=FFFFFF"/>
-</p>
-
----
-
-## CONTACT
-
-<p align="center">
-<a href="https://github.com/Nihaaalu"><img src="https://skillicons.dev/icons?i=github" height="48"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mahammad-nihal-5994203b3"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/f1.nihal"><img src="https://skillicons.dev/icons?i=instagram" height="48"/></a>
-&nbsp;&nbsp;
-<a href="mailto:mahammadnihal12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
-&nbsp;&nbsp;
-<a href="https://x.com/_ni_hellll"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="40"/></a>
-</p>
-
----
-
-<div align="center">
-
-```text
-root@nihal:~$ history | tail
-
-nmap
-burpsuite
-wireshark
-python
-git push
-
-logout
-```
-
-</div>
+Connection closed. Session terminated.
