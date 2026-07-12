@@ -1,4 +1,4 @@
-# Mahammad Nihal
+
 
 <div align="center">
 
@@ -63,29 +63,6 @@ Status      : Building security-focused projects
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
 </p>
-
----
-
-## PROJECTS
-
-```text
-projects/
-├── FocusSense
-│   ├── AI Productivity Detection
-│   └── Computer Vision + Machine Learning
-│
-├── Digital Footprint Investigator
-│   ├── OSINT Toolkit
-│   └── Digital Footprint Analysis
-│
-├── Dreamy Vacations
-│   ├── Offline Booking Platform
-│   └── SQLite + React + Tauri
-│
-└── MaternAI
-    ├── AI Healthcare Assistant
-    └── Gemini + Firebase
-```
 
 ---
 
