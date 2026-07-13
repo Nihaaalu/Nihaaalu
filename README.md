@@ -152,7 +152,7 @@ Learning Labs   : TryHackMe | Hack The Box
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/mahammad-nihal">
+<a href="https://www.linkedin.com/in/mahammad-nihal-5994203b3">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
