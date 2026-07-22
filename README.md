@@ -130,9 +130,9 @@ Learning Labs   : TryHackMe | Hack The Box
 
 <p align="center">
 
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nihaaalu&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nihaaalu&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihaaalu&layout=compact&theme=chartreuse-dark&hide_border=true"/> -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihaaalu&layout=compact&theme=chartreuse-dark&hide_border=true"/> 
 
 </p>
 
