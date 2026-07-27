@@ -127,7 +127,7 @@ Learning Labs   : TryHackMe | Hack The Box
 ---
 
 ## > GITHUB STATS
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nihaaalu&theme=highcontrast&border_radius=6" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nihaaalu&theme=dark" alt="GitHub Streak" /></a>
 
 ## > CONNECT
 
